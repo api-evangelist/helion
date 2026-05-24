@@ -1,0 +1,96 @@
+aid: helion
+name: Helion Energy
+description: >-
+  Helion Energy is an Everett, Washington fusion power company building
+  commercial fusion electricity generators using a pulsed, magneto-inertial
+  field-reversed configuration (FRC) approach burning deuterium and
+  helium-3. Helion forms two FRC plasmas at opposite ends of its machine,
+  accelerates them toward each other, merges them, and uses pulsed magnetic
+  compression to drive them to fusion conditions; the expanding plasma
+  pushes against the confining magnetic field and induces current directly
+  back into the machine's capacitor bank via Faraday's Law, recapturing
+  electricity without a steam cycle. Founded in 2013 by David Kirtley, John
+  Slough, Chris Pihl, and George Votroubek, Helion is chaired by Sam
+  Altman and has progressed through seven generations of prototypes (IPA,
+  Venti, Trenta, and most recently Polaris) on its way to commercial
+  generators. Polaris, brought online in late 2024, is the company's
+  seventh-generation machine and the first privately developed fusion
+  device to demonstrate measurable deuterium-tritium fusion, reaching
+  150 million degrees Celsius in February 2026. In May 2023, Helion
+  signed the world's first commercial fusion power purchase agreement,
+  committing to deliver 50 MWe to Microsoft starting in 2028, with the
+  Orion plant planned for the Malaga, Washington area; a subsequent
+  agreement with Nucor targets a 500-MWe facility. Helion is funded by
+  Sam Altman, SoftBank Vision Fund 2, Nucor, Lightspeed Venture Partners,
+  and others, with a reported $5.4B valuation as of early 2025. The
+  company's revenue model is fusion electricity sales under long-term
+  PPAs; Helion has no public developer API, SDK, or open-source software
+  product, and its public GitHub organization (Helion-Energy) contains
+  only forks of plasma-physics simulation tools (WarpX, FerroX, pyamrex,
+  maestrowf).
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Fusion Energy
+  - Fusion Power
+  - Pulsed Fusion
+  - Field-Reversed Configuration
+  - FRC
+  - Magneto-Inertial Fusion
+  - Deuterium-Helium-3
+  - Aneutronic Fusion
+  - Direct Energy Conversion
+  - Polaris
+  - Orion
+  - Electricity Generation
+  - Clean Energy
+  - Microsoft PPA
+  - Nucor
+  - Hardware
+url: https://raw.githubusercontent.com/api-evangelist/helion/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.helionenergy.com
+  - type: Technology
+    url: https://www.helionenergy.com/technology/
+  - type: Polaris
+    url: https://www.helionenergy.com/polaris/
+  - type: Trenta
+    url: https://www.helionenergy.com/trenta/
+  - type: Orion
+    url: https://www.helionenergy.com/orion/
+  - type: Chelan
+    url: https://www.helionenergy.com/chelan/
+  - type: About
+    url: https://www.helionenergy.com/about/
+  - type: FAQ
+    url: https://www.helionenergy.com/faq/
+  - type: Newsroom
+    url: https://www.helionenergy.com/news/
+  - type: Blog
+    url: https://www.helionenergy.com/blog/
+  - type: Hercules
+    url: https://www.helionenergy.com/hercules/
+  - type: Careers
+    url: https://www.helionenergy.com/careers/
+  - type: Contact
+    url: https://www.helionenergy.com/contact/
+  - type: GitHub
+    url: https://github.com/Helion-Energy
+  - type: Twitter
+    url: https://x.com/helion_energy
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/helion-energy
+  - type: YouTube
+    url: https://www.youtube.com/c/helionenergy
+  - type: Instagram
+    url: https://www.instagram.com/helionenergy
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
