@@ -2,19 +2,14 @@
   "repo": "helion",
   "feeds": [
     {
-      "source": "https://www.helionenergy.com/blog/",
-      "feed_url": "",
-      "saved": 0,
-      "method": "agent-scrape"
-    },
-    {
       "source": "https://www.helionenergy.com/news/",
-      "feed_url": "",
+      "feed_url": "https://www.helionenergy.com/news/",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
   "post_count": 1,
-  "fetched": "2026-06-27T12:45:39Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
