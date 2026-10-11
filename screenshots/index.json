@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "helion",
+    "captured_at": "2026-10-11T190319",
+    "source_url": "https://www.helionenergy.com",
+    "source_type": "Website",
+    "file": "helion-2026-10-11T190319.png",
+    "bytes": 1058601,
+    "capture": "playwright-local"
+  }
+]
