@@ -1,4 +1,4 @@
-# helion
+# Helion Energy
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Helion Energy — pulsed FRC fusion power developer (Polaris machine, Microsoft 50 MWe PPA for 2028)
+Helion Energy is an Everett, Washington fusion power company building commercial fusion electricity generators using a pulsed, magneto-inertial field-reversed configuration (FRC) approach burning deuterium and helium-3. Helion forms two FRC plasmas at opposite ends of its machine, accelerates them toward each other, merges them, and uses pulsed magnetic compression to drive them to fusion conditions; the expanding plasma pushes against the confining magnetic field and induces current directly back into the machine's capacitor bank via Faraday's Law, recapturing electricity without a steam cycle. Founded in 2013 by David Kirtley, John Slough, Chris Pihl, and George Votroubek, Helion is chaired by Sam Altman and has progressed through seven generations of prototypes (IPA, Venti, Trenta, and most recently Polaris) on its way to commercial generators. Polaris, brought online in late 2024, is the company's seventh-generation machine and the first privately developed fusion device to demonstrate measurable deuterium-tritium fusion, reaching 150 million degrees Celsius in February 2026. In May 2023, Helion signed the world's first commercial fusion power purchase agreement, committing to deliver 50 MWe to Microsoft starting in 2028, with the Orion plant planned for the Malaga, Washington area; a subsequent agreement with Nucor targets a 500-MWe facility. Helion is funded by Sam Altman, SoftBank Vision Fund 2, Nucor, Lightspeed Venture Partners, and others, with a reported $5.4B valuation as of early 2025. The company's revenue model is fusion electricity sales under long-term PPAs; Helion has no public developer API, SDK, or open-source software product, and its public GitHub organization (Helion-Energy) contains only forks of plasma-physics simulation tools (WarpX, FerroX, pyamrex, maestrowf).
+
+**Areas:** Fusion Energy · Fusion Power · Pulsed Fusion · Field-Reversed Configuration · FRC · Magneto-Inertial Fusion · Deuterium Helium-3 · Aneutronic Fusion · Direct Energy Conversion · Polaris · Orion · Electricity Generation
+
+## Helion Energy on APIs.io
+
+Everything profiled for Helion Energy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/helion/](https://apis.io/providers/helion/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Helion Domain Security](https://apis.io/security/helion/helion-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.helionenergy.com)
+- [Blog](https://www.helionenergy.com/blog/)
+
+## API Evangelist rating
+
+**Kin Score 4.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/helion/](https://apis.io/providers/helion/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Helion Energy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/helion/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
